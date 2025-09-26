@@ -1,4 +1,4 @@
-if game.PlaceId == 8204899140 then
+if game.PlaceId == 8204899140 or game.PlaceId == 8206123457 or game.PlaceId == 17541256525 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c07b4a952d231796c162e4f594776472.lua"))()
 elseif game.PlaceId == 286090429 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9f33cb120d11ef400205b4518c0ee83e.lua"))()
